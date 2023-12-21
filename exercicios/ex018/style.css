@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'natal' ;
+    src: url('Christmas\ Tree\ Lights\ Demo.otf') format(opentype);
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family:'Work Sans', sans-serif;
+    background-image: linear-gradient(to right, #B2BEBF,#889C9B,#486966);
+}
+main{
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+    box-shadow:5px 5px 15px #192524e1 ;
+    border-radius: 10px;
+    width: 600px;
+}
+h1{
+    font-family: 'natal'; 
+    color: #677575;
+    font-size: 3em;
+    text-align: center;
+}
+h2{
+    font-family:'Kaushan Script', cursive;
+    color: #5b6969;
+    font-size: 2em;
+    text-align: center;
+}
+.aqui{
+    align-items: center;
+}
