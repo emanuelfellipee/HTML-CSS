@@ -1,0 +1,80 @@
+@font-face {
+    font-family:srira ;
+    src: url(Sriracha-Regular.ttf);
+}
+@font-face {
+    
+    font-family: passblack ;
+    src: url(PassionOne-Black.ttf);
+}
+@font-face {
+    font-family: passbold ;
+    src: url(PassionOne-Bold.ttf);
+}
+@font-face {
+    font-family:passregular;
+    src: url(PassionOne-Regular.ttf);
+}
+header > h1{
+    text-align: center;
+    color: white;
+    font-family: passbold ;
+    font-size: 10vw;   
+    padding-top: 50px;
+    margin: 0;
+}
+p.milton{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+nav > a{
+    text-decoration:none;}
+header{
+    background-color: #000000;
+   
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+
+    background-color: white;
+}
+article > p{
+    display: block;
+    font-family: srira;
+    text-indent: 30px;
+    text-align: center;
+    font-size: 45px;
+    padding: 30px;
+    
+}
+
+.joaninha{
+    background-image: url(pacote-d012/imagens/background001.jpg);
+    color: white;
+    background-position: right center;
+    background-attachment: fixed;
+}
+.rabisco{
+    background-image: url(pacote-d012/imagens/background002.jpg);
+    color: white;
+    background-position: right center;
+    background-attachment: fixed;
+}
+
+
+
+
+
+footer{
+    text-align: center;
+    background-color: #000000;
+    color: white;
+}
+footer > a{
+    font-weight: bold;
+    color: white;
+}
